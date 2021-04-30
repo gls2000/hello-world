@@ -1,0 +1,3 @@
+Este es un texto para colocar dentro del nuevo archuvo leeme.txt
+
+este archiBo se creo para agregar por primera BEZ un archivo nuevo al PROGECTO 
